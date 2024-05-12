@@ -1,0 +1,17 @@
+.product {
+    padding: 10px;
+    border: 1px solid #fff;
+
+    &__title {
+        margin-bottom: 5px;
+    }
+
+    &__list {
+        list-style: disc;
+
+        &-item {
+            color: #f0f0f0;
+            margin-bottom: 5px;
+        }
+    }
+}

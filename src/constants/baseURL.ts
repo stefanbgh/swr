@@ -1,0 +1,1 @@
+export const baseURL = "https://react-query.p.rapidapi.com";

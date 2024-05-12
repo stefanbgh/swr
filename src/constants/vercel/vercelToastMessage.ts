@@ -1,0 +1,1 @@
+export const vercelToastMessage = "The Evil Rabbit jumped over the fence.";
